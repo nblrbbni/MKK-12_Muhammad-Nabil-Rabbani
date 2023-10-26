@@ -1,0 +1,95 @@
+.grid-container-12 {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto;
+    gap: 30px;
+    padding: 10px;
+}
+
+.grid-container-12>div {
+    background-color: lemonchiffon;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+}
+
+.grid-container-6 {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    gap: 30px;
+    padding: 10px;
+}
+
+.grid-container-6>div {
+    background-color: lemonchiffon;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+}
+
+.grid-container-4 {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 30px;
+    padding: 10px;
+}
+
+.grid-container-4>div {
+    background-color: lemonchiffon;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+}
+
+.grid-container-3 {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 30px;
+    padding: 10px;
+}
+
+.grid-container-3>div {
+    background-color: lemonchiffon;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+}
+
+.grid-container-2 {
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 30px;
+    padding: 10px;
+}
+
+.grid-container-2>div {
+    background-color: lemonchiffon;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+}
+
+.grid-container-1 {
+    display: grid;
+    grid-template-columns: auto;
+    gap: 30px;
+    padding: 10px;
+}
+
+.grid-container-1>div {
+    background-color: lemonchiffon;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+}
+
+.grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 100px;
+}
